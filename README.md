@@ -23,8 +23,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: 212221240062
-RegisterNumber:  virgil jovita.A
+Developed by: Virgil Jovita.A
+RegisterNumber:  212221240062
 
 import pandas as pd
 df=pd.read_csv("/content/drive/MyDrive/Colab Notebooks/Semster 2/Intro to ML/Placement_Data.csv")
